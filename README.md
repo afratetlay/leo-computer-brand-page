@@ -40,7 +40,7 @@ The design for this page is quite basic, just a banner at the top and a few bloc
 2. **Screenshot**
  
 <div align="center">
-<img src="assets/images/screenshot-one-section.png" alt="Screenshot"><br>
+<img src="assets/img/screenshot-one-section.png" alt="Screenshot"><br>
 </div>
 
 
